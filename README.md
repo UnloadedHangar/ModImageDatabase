@@ -1,1 +1,1 @@
-<img src="banner.png" />
+### There is nothing to see here
